@@ -9,6 +9,13 @@
  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasOliveira1301&layout=compact&langs_count=3&theme=dark"/>
 </div>
   
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ </div>
+<div>
+  <br>
+</div>
+  
 <div>
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"target="_blank">
    <a href="mailto:oliveira.vieira1301@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
