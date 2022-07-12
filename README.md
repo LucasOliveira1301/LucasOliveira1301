@@ -12,6 +12,6 @@
 </div>
   
 <div>
-    <a href="mailto:oliveira.vieira1301@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"target="_blank">
+    <a href="mailto:oliveira.vieira1301@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
 </div>
