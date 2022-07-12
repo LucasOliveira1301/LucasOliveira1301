@@ -1,4 +1,4 @@
-## Hi there 👋
+## Eai!🤙
 - 🔭 Estou trabalhando com...
 - 🎓 Estudando Gestão de TI
 - 🎓 Aprendendo Python
