@@ -1,7 +1,7 @@
 ## Eai!🤙
-- 🔭 Estou trabalhando com...
 - 🎓 Estudando Gestão de TI
 - 🎓 Aprendendo Python
+- 💻 Projeto Atual: Desenvolvendo um Fórum (site) com Flask
 
 <div align="center">
   <a href="https://github.com/LucasOliveira1301">
